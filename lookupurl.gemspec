@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Evan Purnama"]
   s.email       = 'e@qiscus.com'
   s.files       = ["lib/lookupurl.rb"]
-  s.homepage    =
-    ''
+  s.homepage    = 'https://github.com/evnpr/lookupurl'
   s.license       = 'MIT'
 end
